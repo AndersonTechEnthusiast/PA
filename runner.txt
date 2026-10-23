@@ -1,0 +1,4 @@
+P.A:
+clear; chcp 65001; gcc.exe pa.c -o pa.exe; .\pa.exe;
+SOMA:
+clear; chcp 65001; gcc.exe soma.c -o soma.exe; .\soma.exe;
